@@ -4,4 +4,7 @@ Pwellet Hackard is a large corporation with several thousand of employees that i
 
 ![this is an image](https://github.com/JJF1962/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
 
+##  Results
+Using PgAdmin we were able to combine several tables and determine the staff who were born between January 1,1952 and December 31,1955, in the age of retirement, remove duplicate rows using SELECT DISTINCT ON , into from and order by, sumarize abd determine the titles, as you can see in the image below:
 
+![This is an image](
