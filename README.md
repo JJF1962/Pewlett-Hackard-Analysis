@@ -9,3 +9,8 @@ Using PgAdmin we were able to combine several tables and determine the staff who
 
 ![This is an image](https://github.com/JJF1962/Pewlett-Hackard-Analysis/blob/main/Capture%20title%20retirement%20count.PNG)
 
+The total employees to be retire are 90,398 and important number and strategy mus be in place all this employess must be needed in the future with the actual technologt and which ones must be replaced in the near future.
+As an aditional program, the mentioned company Pewlett Hackard  decided to promote  a mentoring program for those employees born in 1965 to support the people retiring. 
+and they are working on different functions as shown below:
+
+![This is an image]()
