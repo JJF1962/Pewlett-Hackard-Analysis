@@ -15,7 +15,8 @@ and they are working on different functions as shown below:
 
 ![This is an image](https://github.com/JJF1962/Pewlett-Hackard-Analysis/blob/main/Capture%20Mentoring%20program%20employees.PNG)
 
- A deeper analysis it  is needed in order to set the action plan  plan to avoid situation that can stop the operatio., PH, should use their experienced staff to start to train the new talents, set a proper succesion planning  need the participation of several disciplines, an external support to train the new talents.
+El mentoring program only affect a small protion (1548 employees) not represent a considerable percentage at all.
+A deeper analysis it  is needed in order to set the action plan  plan to avoid situation that can stop the operatio., PH, should use their experienced staff to start to train the new talents, set a proper succesion planning, How ever it is  needed the participation of several disciplines, an external support as education institutions and outsorcing to train the new talents and cover the gap.
 Please see sumary and recommendations as follows.
 
 ##  Summary
