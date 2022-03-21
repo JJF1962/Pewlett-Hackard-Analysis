@@ -15,6 +15,9 @@ and they are working on different functions as shown below:
 
 ![This is an image](https://github.com/JJF1962/Pewlett-Hackard-Analysis/blob/main/Capture%20Mentoring%20program%20employees.PNG)
 
+ A deeper analysis it  is needed in order to set the action plan  plan to avoid situation that can stop the operatio., PH, should use their experienced staff to start to train the new talents, set a proper succesion planning  need the participation of several disciplines, an external support to train the new talents.
+Please see sumary and recommendations as follows.
+
 ##  Summary
 * It is very important to make a further analysis related job markets, operational and finatial impact, 98,398 will take time to replace.
 * It will be recommendable, consider the implementation of new technologies and/or outsorcing to keep the operation running.
